@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\TechFix\ITechfixRemotingService\bin\Debug\ITechfixRemotingService.dll
+C:\Users\ASUS\source\repos\TechFix\ITechfixRemotingService\bin\Debug\ITechfixRemotingService.pdb
+C:\Users\ASUS\source\repos\TechFix\ITechfixRemotingService\obj\Debug\ITechfixRemotingService.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TechFix\ITechfixRemotingService\obj\Debug\ITechfixRemotingService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TechFix\ITechfixRemotingService\obj\Debug\ITechfixRemotingService.dll
+C:\Users\ASUS\source\repos\TechFix\ITechfixRemotingService\obj\Debug\ITechfixRemotingService.pdb

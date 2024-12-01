@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\TehcfixHost.exe.config
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\TehcfixHost.exe
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\TehcfixHost.pdb
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\ITechfixRemotingService.dll
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\TechfixRemotingService.dll
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\Web_Service.dll
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\ITechfixRemotingService.pdb
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\TechfixRemotingService.pdb
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\Web_Service.pdb
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\bin\Debug\Web_Service.dll.config
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\obj\Debug\TehcfixHost.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\obj\Debug\TehcfixHost.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\obj\Debug\TehcfixH.960B19C3.Up2Date
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\obj\Debug\TehcfixHost.exe
+C:\Users\ASUS\source\repos\TechFix\TehcfixHost\obj\Debug\TehcfixHost.pdb
